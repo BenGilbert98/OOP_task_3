@@ -1,6 +1,6 @@
 class Menu:
     def __init__(self):
-        self.items = [
+        self.items = [ #defining a menu with items
             "Bread",
             "Toasted Bread",
             "Garlic Bread",
